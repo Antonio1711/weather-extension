@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Weather extension",
+    "description":"Extensão para navegador que informa o clima de SP",
+    "version": "0.1",
+    "author": "Antonio Augusto",
+    "browser_action":{
+        "default_icon": "meu-icone.png",
+        "default_popup" : "index.html"
+    }
+}

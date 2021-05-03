@@ -1,0 +1,25 @@
+.container{
+    width: 180px;
+    height: 180px;
+}
+
+h5 {
+    font-size: 15px;
+    font-family: "Lato", sans-serif;
+    color: midnightblue;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    color: midnightblue;
+}
+
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
